@@ -68,7 +68,7 @@ The notebooks in `notebooks/` walk through exploration (01), forecasting (02) an
 app.py                  Streamlit dashboard
 src/generate_data.py    synthetic demand generator
 src/inventory.py        safety stock + day-by-day inventory simulation
-notebooks/              01 explore · 02 forecasting models · 03 inventory policy
+notebooks/              01 explore · 02 forecasting · 03 inventory policy
 data/raw/               generated sales history
 data/processed/         forecasts and model scores
 tests/                  data and inventory-logic tests
