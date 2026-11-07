@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+.ipynb_checkpoints/
+catboost_info/
+
+# Secrets - never commit these
+.env
+.env.*
+
+# OS
+.DS_Store
+Thumbs.db

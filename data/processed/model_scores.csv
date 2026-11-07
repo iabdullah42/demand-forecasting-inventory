@@ -1,0 +1,8 @@
+,WAPE_%,bias_%
+prophet,20.9,1.8
+ensemble,21.0,-0.2
+lightgbm,22.3,-2.3
+naive,27.5,-8.0
+same_day_last_year,31.3,-4.4
+moving_avg_28,31.6,6.4
+seasonal_naive_7,37.2,1.5
